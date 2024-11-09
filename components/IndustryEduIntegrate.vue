@@ -72,7 +72,7 @@
                 <NuxtImg
                   format="webp"
                   quality="80"
-                  class="aspect-[1/0.3872] select-none object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                  class="aspect-[1/0.3872] select-none object-cover w-full h-full lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
                   src="/images/37AAA58D940785BF2671D19CD6F_1B05DAD4_3E3E4.jpg"
                 />
               </div>
