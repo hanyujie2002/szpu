@@ -118,7 +118,7 @@
                 format="webp"
                 quality="80"
                 src="/images/175454FF3398EA377A652214492_F15B370F_1C996.jpg"
-                class="aspect-[1/0.8693] object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                class="aspect-[1/0.8693] object-cover w-full h-full lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
               />
             </div>
             <div
@@ -134,7 +134,7 @@
                 与你相遇，好幸运！
               </h4>
               <div
-                class="relative flex items-center pb-[17px] after:absolute after:top-[39.948px] after:h-[5.94792px] after:w-full after:bg-[rgb(85,212,56)] after:content-['']"
+                class="relative flex items-center pb-[17px] after:absolute after:bottom-0 after:h-[5.94792px] after:w-full after:bg-[rgb(85,212,56)] after:content-['']"
               >
                 <NuxtImg
                   format="webp"
@@ -177,7 +177,7 @@
                 猜猜这是哪？
               </h4>
               <div
-                class="relative flex items-center pb-[17px] after:absolute after:top-[39.948px] after:h-[5.94792px] after:w-full after:bg-[rgb(85,212,56)] after:content-['']"
+                class="relative flex items-center pb-[17px] after:absolute after:bottom-0 after:h-[5.94792px] after:w-full after:bg-[rgb(85,212,56)] after:content-['']"
               >
                 <NuxtImg
                   format="webp"
@@ -204,7 +204,7 @@
                 format="webp"
                 quality="80"
                 src="/images/DC263E6255361CF2D6976FAC664_2A877B94_7CD3.jpg"
-                class="aspect-[1/0.4345] w-full object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                class="aspect-[1/0.4345] w-full h-full object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
               />
             </div>
             <div
@@ -220,7 +220,7 @@
                 深职大，3金2银！
               </h4>
               <div
-                class="relative flex items-center pb-[17px] after:absolute after:top-[39.948px] after:h-[5.94792px] after:w-full after:bg-[rgb(85,212,56)] after:content-['']"
+                class="relative flex items-center pb-[17px] after:absolute after:bottom-0 after:h-[5.94792px] after:w-full after:bg-[rgb(85,212,56)] after:content-['']"
               >
                 <NuxtImg
                   format="webp"
@@ -263,7 +263,7 @@
                 定了！开始报名！
               </h4>
               <div
-                class="relative flex items-center pb-[17px] after:absolute after:top-[39.948px] after:h-[5.94792px] after:w-full after:bg-[rgb(85,212,56)] after:content-['']"
+                class="relative flex items-center pb-[17px] after:absolute after:bottom-0 after:h-[5.94792px] after:w-full after:bg-[rgb(85,212,56)] after:content-['']"
               >
                 <NuxtImg
                   format="webp"
@@ -306,7 +306,7 @@
                 紧急通知！这里有超多岗位在等你！
               </h4>
               <div
-                class="relative flex items-center pb-[17px] after:absolute after:top-[39.948px] after:h-[5.94792px] after:w-full after:bg-[rgb(85,212,56)] after:content-['']"
+                class="relative flex items-center pb-[17px] after:absolute after:bottom-0 after:h-[5.94792px] after:w-full after:bg-[rgb(85,212,56)] after:content-['']"
               >
                 <NuxtImg
                   format="webp"
@@ -333,7 +333,7 @@
                 format="webp"
                 quality="80"
                 src="/images/2BE0ECA585B65978251E2DA2A6B_273789F6_172B0.jpg"
-                class="aspect-[1/0.8693] object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                class="aspect-[1/0.8693] object-cover w-full h-full lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
               />
             </div>
             <div
@@ -349,7 +349,7 @@
                 像素风深职大，也太真实了吧！
               </h4>
               <div
-                class="relative flex items-center pb-[17px] after:absolute after:top-[39.948px] after:h-[5.94792px] after:w-full after:bg-[rgb(85,212,56)] after:content-['']"
+                class="relative flex items-center pb-[17px] after:absolute after:bottom-0 after:h-[5.94792px] after:w-full after:bg-[rgb(85,212,56)] after:content-['']"
               >
                 <NuxtImg
                   format="webp"
