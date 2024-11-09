@@ -9,12 +9,7 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-  modules: [
-    '@nuxt/icon',
-    'nuxt-swiper',
-    '@nuxt/eslint',
-    '@nuxt/image',
-  ],
+  modules: ['@nuxt/icon', 'nuxt-swiper', '@nuxt/eslint', '@nuxt/image'],
   nitro: {
     prerender: {
       failOnError: false,

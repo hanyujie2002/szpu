@@ -40,13 +40,18 @@
                   format="webp"
                   quality="80"
                   src="/images/list9_ico1.png"
-                  class="drop-shadow-custom group-hover:drop-shadow-custom-1 w-full h-full"
+                  class="h-full w-full drop-shadow-custom group-hover:drop-shadow-custom-1"
                 />
               </div>
               <div
                 class="before-[''] invisible absolute bottom-[-140.927px] left-[22.094px] right-[-16.146px] top-[61.875px] z-20 ml-[-85px] w-[123.25px] translate-y-[8.5px] rounded-[8.5px] bg-white p-[12.75px] opacity-0 transition-all duration-500 before:absolute before:bottom-[118.146px] before:left-[80.76px] before:right-[32.3px] before:top-[-5.1px] before:h-[10.1979px] before:w-[10.1979px] before:rotate-45 before:bg-white before:transition-all before:duration-500 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100"
               >
-                <NuxtImg format="webp" quality="80" class="w-full h-full" src="/images/weibo-szpt.png" />
+                <NuxtImg
+                  format="webp"
+                  quality="80"
+                  class="h-full w-full"
+                  src="/images/weibo-szpt.png"
+                />
               </div>
             </li>
 
@@ -58,13 +63,18 @@
                   format="webp"
                   quality="80"
                   src="/images/list9_ico2.png"
-                  class="drop-shadow-custom group-hover:drop-shadow-custom-1 w-full h-full"
+                  class="h-full w-full drop-shadow-custom group-hover:drop-shadow-custom-1"
                 />
               </div>
               <div
                 class="before-[''] invisible absolute bottom-[-140.927px] left-[22.094px] right-[-16.146px] top-[61.875px] z-10 ml-[-85px] w-[123.25px] translate-y-[8.5px] rounded-[8.5px] bg-white p-[12.75px] opacity-0 transition-all duration-500 before:absolute before:bottom-[118.146px] before:left-[80.76px] before:right-[32.3px] before:top-[-5.1px] before:h-[10.1979px] before:w-[10.1979px] before:rotate-45 before:bg-white before:transition-all before:duration-500 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100"
               >
-                <NuxtImg format="webp" quality="80" class="w-full h-full" src="/images/new_ewm.jpg" />
+                <NuxtImg
+                  format="webp"
+                  quality="80"
+                  class="h-full w-full"
+                  src="/images/new_ewm.jpg"
+                />
               </div>
             </li>
 
@@ -76,13 +86,18 @@
                   format="webp"
                   quality="80"
                   src="/images/list9_ico3.png"
-                  class="drop-shadow-custom group-hover:drop-shadow-custom-1 w-full h-full"
+                  class="h-full w-full drop-shadow-custom group-hover:drop-shadow-custom-1"
                 />
               </div>
               <div
                 class="before-[''] invisible absolute bottom-[-140.927px] left-[22.094px] right-[-16.146px] top-[61.875px] z-10 ml-[-85px] w-[123.25px] translate-y-[8.5px] rounded-[8.5px] bg-white p-[12.75px] opacity-0 transition-all duration-500 before:absolute before:bottom-[118.146px] before:left-[80.76px] before:right-[32.3px] before:top-[-5.1px] before:h-[10.1979px] before:w-[10.1979px] before:rotate-45 before:bg-white before:transition-all before:duration-500 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100"
               >
-                <NuxtImg format="webp" quality="80" class="w-full h-full" src="/images/douyin_ewm.jpg" />
+                <NuxtImg
+                  format="webp"
+                  quality="80"
+                  class="h-full w-full"
+                  src="/images/douyin_ewm.jpg"
+                />
               </div>
             </li>
           </ul>
@@ -146,7 +161,7 @@
                 format="webp"
                 quality="80"
                 src="/images/1AAD47A83DB0B869EAEBB11EB7C_C1D7EC53_A775.jpg"
-                class="aspect-[1/0.8693] w-full h-full object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                class="aspect-[1/0.8693] h-full w-full object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
               />
             </div>
             <div
@@ -232,7 +247,7 @@
                 format="webp"
                 quality="80"
                 src="/images/939021757320719DB84B52495BA_BB4676DE_305E.jpg"
-                class="aspect-[1/0.4345] object-cover w-full h-full lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                class="aspect-[1/0.4345] h-full w-full object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
               />
             </div>
             <div
@@ -275,7 +290,7 @@
                 format="webp"
                 quality="80"
                 src="/images/84620C8308D997CE9D7CDA65219_8EB821F0_4998.jpg"
-                class="aspect-[1/0.8693] object-cover w-full h-full lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                class="aspect-[1/0.8693] h-full w-full object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
               />
             </div>
             <div

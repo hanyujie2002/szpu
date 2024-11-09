@@ -16,7 +16,12 @@
           to="https://www.szpu.edu.cn/"
           title="深圳职业技术大学官网2023"
         >
-          <img src="~/assets/images/logo_red.png" />
+          <NuxtImg
+            format="webp"
+            quality="80"
+            class="h-full w-full"
+            src="/images/logo_red.png"
+          />
         </NuxtLink>
       </div>
       <div class="w-[920px] self-start pt-[4.8px]">
@@ -75,9 +80,11 @@
                   <div
                     class="relative w-[224px] flex-shrink-0 flex-grow-0 overflow-hidden"
                   >
-                    <img
+                    <NuxtImg
+                      format="webp"
+                      quality="80"
                       class="aspect-[2]"
-                      src="~/assets/images/xykg0828.jpg"
+                      src="/images/xykg0828.jpg"
                     />
                   </div>
 
@@ -152,9 +159,11 @@
                   <div
                     class="relative w-[224px] flex-shrink-0 flex-grow-0 overflow-hidden"
                   >
-                    <img
+                    <NuxtImg
+                      format="webp"
+                      quality="80"
                       class="aspect-[2]"
-                      src="~/assets/images/zzjg0828.jpg"
+                      src="/images/zzjg0828.jpg"
                     />
                   </div>
 
@@ -205,9 +214,11 @@
                   <div
                     class="relative w-[224px] flex-shrink-0 flex-grow-0 overflow-hidden"
                   >
-                    <img
+                    <NuxtImg
+                      format="webp"
+                      quality="80"
                       class="aspect-[2]"
-                      src="~/assets/images/jyjx20240828.jpg"
+                      src="/images/jyjx20240828.jpg"
                     />
                   </div>
 
@@ -282,9 +293,11 @@
                   <div
                     class="relative w-[224px] flex-shrink-0 flex-grow-0 overflow-hidden"
                   >
-                    <img
+                    <NuxtImg
+                      format="webp"
+                      quality="80"
                       class="aspect-[2]"
-                      src="~/assets/images/kxyj0828.jpg"
+                      src="/images/kxyj0828.jpg"
                     />
                   </div>
 
@@ -335,9 +348,11 @@
                   <div
                     class="relative w-[224px] flex-shrink-0 flex-grow-0 overflow-hidden"
                   >
-                    <img
+                    <NuxtImg
+                      format="webp"
+                      quality="80"
                       class="aspect-[2]"
-                      src="~/assets/images/zsjy0828.jpg"
+                      src="/images/zsjy0828.jpg"
                     />
                   </div>
 
@@ -388,9 +403,11 @@
                   <div
                     class="relative w-[224px] flex-shrink-0 flex-grow-0 overflow-hidden"
                   >
-                    <img
+                    <NuxtImg
+                      format="webp"
+                      quality="80"
                       class="aspect-[2]"
-                      src="~/assets/images/gjjl0828.jpg"
+                      src="/images/gjjl0828.jpg"
                     />
                   </div>
 
@@ -429,9 +446,11 @@
                   <div
                     class="relative w-[224px] flex-shrink-0 flex-grow-0 overflow-hidden"
                   >
-                    <img
+                    <NuxtImg
+                      format="webp"
+                      quality="80"
                       class="aspect-[2]"
-                      src="~/assets/images/xysh0828.jpg"
+                      src="/images/xysh0828.jpg"
                     />
                   </div>
 
@@ -481,7 +500,7 @@
                   <img
                     class="flex h-[16px] w-[16px]"
                     style="line-height: 32px"
-                    src="~/assets/images/list1_ico1.svg"
+                    src="/images/list1_ico1.svg"
                   />
                 </div>
               </button>
@@ -495,7 +514,7 @@
                   <img
                     class="flex h-[16px] w-[16px]"
                     style="line-height: 32px"
-                    src="~/assets/images/list1_ico2.svg"
+                    src="/images/list1_ico2.svg"
                   />
                 </div>
               </NuxtLink>

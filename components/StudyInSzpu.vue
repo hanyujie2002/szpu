@@ -18,7 +18,7 @@
                   format="webp"
                   quality="80"
                   src="/images/list7_img1.jpg"
-                  class="object-cover w-full h-full lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                  class="h-full w-full object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
                 />
               </div>
               <div
@@ -43,7 +43,7 @@
                     format="webp"
                     quality="80"
                     src="/images/list7_ico.png"
-                    class="absolute w-full h-full bottom-0 left-0 right-0 top-0 animate-rotate"
+                    class="absolute bottom-0 left-0 right-0 top-0 h-full w-full animate-rotate"
                   />
                 </div>
               </div>
