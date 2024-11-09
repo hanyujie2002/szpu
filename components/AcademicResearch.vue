@@ -88,7 +88,8 @@
             1536: { spaceBetween: 66, slidesPerView: 3 },
           }"
           :autoplay="{
-            delay: 2 * 3e3,
+            delay: 6000,
+            stopOnLastSlide: false,
             disableOnInteraction: false,
           }"
           class="!overflow-hidden"

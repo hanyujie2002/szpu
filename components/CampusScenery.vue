@@ -7,7 +7,7 @@
       :thumbs="{ swiper: thumbs, autoScrollOffset: 1 }"
       :speed="800"
       :autoplay="{
-        delay: 2 * 3e3,
+        delay: 6000,
         disableOnInteraction: false,
       }"
       tag="section"

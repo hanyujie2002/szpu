@@ -148,7 +148,8 @@
             clickable: true,
           }"
           :autoplay="{
-            delay: 2 * 3e3,
+            delay: 6000,
+            stopOnLastSlide: false,
             disableOnInteraction: false,
           }"
           class="relative w-full !pb-[63.75px] before:absolute before:bottom-0 before:left-0 before:top-0 before:hidden before:w-[1px] before:bg-[#d6d6d6] before:content-[''] after:absolute after:bottom-0 after:right-0 after:top-0 after:hidden after:w-[1px] after:bg-[#d6d6d6] after:content-[''] md:before:block md:after:block"
