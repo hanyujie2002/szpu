@@ -39,7 +39,7 @@
                 <NuxtImg
                   format="webp"
                   quality="80"
-                  class="lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                  class="lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08] select-none"
                   src="/images/default/mtksz.jpg"
                   alt=""
                 />
@@ -164,7 +164,7 @@
                 <NuxtImg
                   format="webp"
                   quality="80"
-                  class="aspect-[1/0.6154] lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                  class="aspect-[1/0.6154] lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08] select-none"
                   src="/images/meitishenzhi.jpg"
                 />
               </div>
@@ -220,7 +220,7 @@
                 <NuxtImg
                   format="webp"
                   quality="80"
-                  class="aspect-[1/0.6154] lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                  class="aspect-[1/0.6154] lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08] select-none"
                   src="/images/meitishenzhi.jpg"
                 />
               </div>
@@ -332,7 +332,7 @@
                 <NuxtImg
                   format="webp"
                   quality="80"
-                  class="aspect-[1/0.6154] lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                  class="aspect-[1/0.6154] lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08] select-none"
                   src="/images/FD45E1D3459A5E5A3E7238B5337_BD75B40F_4C9F0.jpg"
                 />
               </div>
@@ -388,7 +388,7 @@
                 <NuxtImg
                   format="webp"
                   quality="80"
-                  class="aspect-[1/0.6154] lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                  class="aspect-[1/0.6154] lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08] select-none"
                   src="/images/meitishenzhi.jpg"
                 />
               </div>

@@ -118,7 +118,7 @@
                 format="webp"
                 quality="80"
                 src="/images/175454FF3398EA377A652214492_F15B370F_1C996.jpg"
-                class="aspect-[1/0.8693] object-cover w-full h-full lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                class="aspect-[1/0.8693] object-cover w-full h-full lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08] select-none"
               />
             </div>
             <div
@@ -161,7 +161,7 @@
                 format="webp"
                 quality="80"
                 src="/images/1AAD47A83DB0B869EAEBB11EB7C_C1D7EC53_A775.jpg"
-                class="aspect-[1/0.8693] h-full w-full object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                class="aspect-[1/0.8693] h-full w-full object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08] select-none"
               />
             </div>
             <div
@@ -204,7 +204,7 @@
                 format="webp"
                 quality="80"
                 src="/images/DC263E6255361CF2D6976FAC664_2A877B94_7CD3.jpg"
-                class="aspect-[1/0.4345] w-full h-full object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                class="aspect-[1/0.4345] w-full h-full object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08] select-none"
               />
             </div>
             <div
@@ -247,7 +247,7 @@
                 format="webp"
                 quality="80"
                 src="/images/939021757320719DB84B52495BA_BB4676DE_305E.jpg"
-                class="aspect-[1/0.4345] h-full w-full object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                class="aspect-[1/0.4345] h-full w-full object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08] select-none"
               />
             </div>
             <div
@@ -290,7 +290,7 @@
                 format="webp"
                 quality="80"
                 src="/images/84620C8308D997CE9D7CDA65219_8EB821F0_4998.jpg"
-                class="aspect-[1/0.8693] h-full w-full object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                class="aspect-[1/0.8693] h-full w-full object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08] select-none"
               />
             </div>
             <div
@@ -333,7 +333,7 @@
                 format="webp"
                 quality="80"
                 src="/images/2BE0ECA585B65978251E2DA2A6B_273789F6_172B0.jpg"
-                class="aspect-[1/0.8693] object-cover w-full h-full lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                class="aspect-[1/0.8693] object-cover w-full h-full lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08] select-none"
               />
             </div>
             <div

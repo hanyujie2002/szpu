@@ -46,11 +46,11 @@
               查看更多
             </h4>
             <div
-              class="bg-more1 relative ml-[10.2px] mt-[-3px] flex h-[5.94792px] w-[25.5px] items-center overflow-hidden before:absolute before:bottom-0 before:left-0 before:right-0 before:top-0 before:translate-x-[-110%] before:bg-[length:100%_100%] before:bg-center before:bg-no-repeat before:duration-500 lg:w-[24px] lg:group-hover:before:translate-x-0"
+              class="bg-more1 relative ml-[10.2px] mt-[-3px] flex h-[5.94792px] w-[25.5px] items-center overflow-hidden before:absolute before:bottom-0 before:left-0 before:right-0 before:top-0 before:translate-x-[-110%] before:bg-[length:100%_100%] before:bg-center before:bg-no-repeat before:select-none before:duration-500 lg:w-[24px] lg:group-hover:before:translate-x-0"
             >
               <NuxtImg
                 quality="80"
-                class="h-full w-full duration-500 lg:group-hover:translate-x-[110%]"
+                class="h-full w-full duration-500 lg:group-hover:translate-x-[110%] select-none"
                 src="/images/more1.svg"
               />
             </div>
@@ -112,7 +112,7 @@
                 <NuxtImg
                   format="webp"
                   quality="80"
-                  class="aspect-[1/0.4563] object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                  class="aspect-[1/0.4563] object-cover select-none lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
                   src="/images/438041A7E1EE841E49054CE3013_836CB248_51011.jpg"
                 />
               </div>
