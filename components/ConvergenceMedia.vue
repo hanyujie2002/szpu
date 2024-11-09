@@ -105,9 +105,9 @@
       </div>
 
       <ul class="!z-0 flex flex-wrap !duration-1000" data-aos="fade-up">
-        <li class="w-1/2 md:w-1/4">
+        <li class="w-1/2 md:w-1/4 relative">
           <NuxtLink
-            class="group relative"
+            class="group"
             to="https://mp.weixin.qq.com/s/zpHDixzQLBuTggxKSg4lAg"
             title="与你相遇，好幸运！"
           >
@@ -148,9 +148,9 @@
           </NuxtLink>
         </li>
 
-        <li class="w-1/2 md:w-1/4">
+        <li class="w-1/2 md:w-1/4 relative">
           <NuxtLink
-            class="group relative"
+            class="group"
             to="https://mp.weixin.qq.com/s/zpHDixzQLBuTggxKSg4lAg"
             title="猜猜这是哪？"
           >
@@ -191,9 +191,9 @@
           </NuxtLink>
         </li>
 
-        <li class="w-full md:w-1/2">
+        <li class="w-full md:w-1/2 relative">
           <NuxtLink
-            class="group relative"
+            class="group"
             to="https://mp.weixin.qq.com/s/zpHDixzQLBuTggxKSg4lAg"
             title="深职大，3金2银！"
           >
@@ -234,9 +234,9 @@
           </NuxtLink>
         </li>
 
-        <li class="w-full md:w-1/2">
+        <li class="w-full md:w-1/2 relative">
           <NuxtLink
-            class="group relative"
+            class="group"
             to="https://mp.weixin.qq.com/s/zpHDixzQLBuTggxKSg4lAg"
             title="定了！开始报名！"
           >
@@ -277,9 +277,9 @@
           </NuxtLink>
         </li>
 
-        <li class="w-1/2 md:w-1/4">
+        <li class="w-1/2 md:w-1/4 relative">
           <NuxtLink
-            class="group relative"
+            class="group"
             to="https://mp.weixin.qq.com/s/zpHDixzQLBuTggxKSg4lAg"
             title="紧急通知！这里有超多岗位在等你！"
           >
@@ -320,11 +320,11 @@
           </NuxtLink>
         </li>
 
-        <li class="w-1/2 md:w-1/4">
+        <li class="w-1/2 md:w-1/4 relative">
           <NuxtLink
-            class="group relative"
+            class="group"
             to="https://mp.weixin.qq.com/s/zpHDixzQLBuTggxKSg4lAg"
-            title="深职大，3金2银！"
+            title="像素风深职大，也太真实了吧！"
           >
             <div
               class="relative w-full overflow-hidden after:absolute after:bottom-0 after:left-0 after:right-0 after:top-0 after:bg-black/30 after:content-[''] lg:after:duration-500 lg:group-hover:after:opacity-0"
