@@ -36,15 +36,17 @@
               <div
                 class="flex h-[44.1979px] w-[44.1979px] items-center rounded-full bg-white/20 duration-500 before:absolute before:bottom-0 before:left-0 before:right-0 before:top-0 before:scale-0 before:rounded-full before:border-[1px] before:border-white/70 before:duration-500 before:content-[''] group-hover:bg-white/50 before:group-hover:scale-125"
               >
-                <img
-                  src="~/assets/images/list9_ico1.png"
-                  class="drop-shadow-custom group-hover:drop-shadow-custom-1"
+                <NuxtImg
+                  format="webp"
+                  quality="80"
+                  src="/images/list9_ico1.png"
+                  class="drop-shadow-custom group-hover:drop-shadow-custom-1 w-full h-full"
                 />
               </div>
               <div
                 class="before-[''] invisible absolute bottom-[-140.927px] left-[22.094px] right-[-16.146px] top-[61.875px] z-20 ml-[-85px] w-[123.25px] translate-y-[8.5px] rounded-[8.5px] bg-white p-[12.75px] opacity-0 transition-all duration-500 before:absolute before:bottom-[118.146px] before:left-[80.76px] before:right-[32.3px] before:top-[-5.1px] before:h-[10.1979px] before:w-[10.1979px] before:rotate-45 before:bg-white before:transition-all before:duration-500 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100"
               >
-                <img src="~/assets/images/weibo-szpt.png" />
+                <NuxtImg format="webp" quality="80" class="w-full h-full" src="/images/weibo-szpt.png" />
               </div>
             </li>
 
@@ -52,15 +54,17 @@
               <div
                 class="flex h-[44.1979px] w-[44.1979px] items-center rounded-full bg-white/20 transition-all duration-500 before:absolute before:bottom-0 before:left-0 before:right-0 before:top-0 before:scale-0 before:rounded-full before:border-[1px] before:border-white/70 before:transition-all before:duration-500 before:content-[''] group-hover:bg-white/50 before:group-hover:scale-125"
               >
-                <img
-                  src="~/assets/images/list9_ico2.png"
-                  class="drop-shadow-custom group-hover:drop-shadow-custom-1"
+                <NuxtImg
+                  format="webp"
+                  quality="80"
+                  src="/images/list9_ico2.png"
+                  class="drop-shadow-custom group-hover:drop-shadow-custom-1 w-full h-full"
                 />
               </div>
               <div
                 class="before-[''] invisible absolute bottom-[-140.927px] left-[22.094px] right-[-16.146px] top-[61.875px] z-10 ml-[-85px] w-[123.25px] translate-y-[8.5px] rounded-[8.5px] bg-white p-[12.75px] opacity-0 transition-all duration-500 before:absolute before:bottom-[118.146px] before:left-[80.76px] before:right-[32.3px] before:top-[-5.1px] before:h-[10.1979px] before:w-[10.1979px] before:rotate-45 before:bg-white before:transition-all before:duration-500 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100"
               >
-                <img src="~/assets/images/new_ewm.jpg" />
+                <NuxtImg format="webp" quality="80" class="w-full h-full" src="/images/new_ewm.jpg" />
               </div>
             </li>
 
@@ -68,15 +72,17 @@
               <div
                 class="flex h-[44.1979px] w-[44.1979px] items-center rounded-full bg-white/20 duration-500 before:absolute before:bottom-0 before:left-0 before:right-0 before:top-0 before:scale-0 before:rounded-full before:border-[1px] before:border-white/70 before:duration-500 before:content-[''] group-hover:bg-white/50 before:group-hover:scale-125"
               >
-                <img
-                  src="~/assets/images/list9_ico3.png"
-                  class="drop-shadow-custom group-hover:drop-shadow-custom-1"
+                <NuxtImg
+                  format="webp"
+                  quality="80"
+                  src="/images/list9_ico3.png"
+                  class="drop-shadow-custom group-hover:drop-shadow-custom-1 w-full h-full"
                 />
               </div>
               <div
                 class="before-[''] invisible absolute bottom-[-140.927px] left-[22.094px] right-[-16.146px] top-[61.875px] z-10 ml-[-85px] w-[123.25px] translate-y-[8.5px] rounded-[8.5px] bg-white p-[12.75px] opacity-0 transition-all duration-500 before:absolute before:bottom-[118.146px] before:left-[80.76px] before:right-[32.3px] before:top-[-5.1px] before:h-[10.1979px] before:w-[10.1979px] before:rotate-45 before:bg-white before:transition-all before:duration-500 group-hover:visible group-hover:translate-y-0 group-hover:opacity-100"
               >
-                <img src="~/assets/images/douyin_ewm.jpg" />
+                <NuxtImg format="webp" quality="80" class="w-full h-full" src="/images/douyin_ewm.jpg" />
               </div>
             </li>
           </ul>
@@ -93,8 +99,10 @@
             <div
               class="relative w-full overflow-hidden after:absolute after:bottom-0 after:left-0 after:right-0 after:top-0 after:bg-black/30 after:content-[''] lg:after:duration-500 lg:group-hover:after:opacity-0"
             >
-              <img
-                src="~/assets/images/175454FF3398EA377A652214492_F15B370F_1C996.jpg"
+              <NuxtImg
+                format="webp"
+                quality="80"
+                src="/images/175454FF3398EA377A652214492_F15B370F_1C996.jpg"
                 class="aspect-[1/0.8693] object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
               />
             </div>
@@ -113,8 +121,10 @@
               <div
                 class="relative flex items-center pb-[17px] after:absolute after:top-[39.948px] after:h-[5.94792px] after:w-full after:bg-[rgb(85,212,56)] after:content-['']"
               >
-                <img
-                  src="~/assets/images/list9_ico2.png"
+                <NuxtImg
+                  format="webp"
+                  quality="80"
+                  src="/images/list9_ico2.png"
                   class="ml-[-5.1px] mr-[3.4px] max-h-[28.896px] max-w-[28.896px] overflow-clip"
                 />
                 <span style="line-height: 11.9px; font-size: 11.9px">微信</span>
@@ -132,9 +142,11 @@
             <div
               class="relative w-full overflow-hidden after:absolute after:bottom-0 after:left-0 after:right-0 after:top-0 after:bg-black/30 after:content-[''] lg:after:duration-500 lg:group-hover:after:opacity-0"
             >
-              <img
-                src="~/assets/images/1AAD47A83DB0B869EAEBB11EB7C_C1D7EC53_A775.jpg"
-                class="aspect-[1/0.8693] object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+              <NuxtImg
+                format="webp"
+                quality="80"
+                src="/images/1AAD47A83DB0B869EAEBB11EB7C_C1D7EC53_A775.jpg"
+                class="aspect-[1/0.8693] w-full h-full object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
               />
             </div>
             <div
@@ -152,8 +164,10 @@
               <div
                 class="relative flex items-center pb-[17px] after:absolute after:top-[39.948px] after:h-[5.94792px] after:w-full after:bg-[rgb(85,212,56)] after:content-['']"
               >
-                <img
-                  src="~/assets/images/list9_ico2.png"
+                <NuxtImg
+                  format="webp"
+                  quality="80"
+                  src="/images/list9_ico2.png"
                   class="ml-[-5.1px] mr-[3.4px] max-h-[28.896px] max-w-[28.896px] overflow-clip"
                 />
                 <span style="line-height: 11.9px; font-size: 11.9px">微信</span>
@@ -171,8 +185,10 @@
             <div
               class="relative w-full overflow-hidden after:absolute after:bottom-0 after:left-0 after:right-0 after:top-0 after:bg-black/30 after:content-[''] lg:after:duration-500 lg:group-hover:after:opacity-0"
             >
-              <img
-                src="~/assets/images/DC263E6255361CF2D6976FAC664_2A877B94_7CD3.jpg"
+              <NuxtImg
+                format="webp"
+                quality="80"
+                src="/images/DC263E6255361CF2D6976FAC664_2A877B94_7CD3.jpg"
                 class="aspect-[1/0.4345] w-full object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
               />
             </div>
@@ -191,8 +207,10 @@
               <div
                 class="relative flex items-center pb-[17px] after:absolute after:top-[39.948px] after:h-[5.94792px] after:w-full after:bg-[rgb(85,212,56)] after:content-['']"
               >
-                <img
-                  src="~/assets/images/list9_ico2.png"
+                <NuxtImg
+                  format="webp"
+                  quality="80"
+                  src="/images/list9_ico2.png"
                   class="ml-[-5.1px] mr-[3.4px] max-h-[28.896px] max-w-[28.896px] overflow-clip"
                 />
                 <span style="line-height: 11.9px; font-size: 11.9px">微信</span>
@@ -210,9 +228,11 @@
             <div
               class="relative w-full overflow-hidden after:absolute after:bottom-0 after:left-0 after:right-0 after:top-0 after:bg-black/30 after:content-[''] lg:after:duration-500 lg:group-hover:after:opacity-0"
             >
-              <img
-                src="~/assets/images/939021757320719DB84B52495BA_BB4676DE_305E.jpg"
-                class="aspect-[1/0.4345] object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+              <NuxtImg
+                format="webp"
+                quality="80"
+                src="/images/939021757320719DB84B52495BA_BB4676DE_305E.jpg"
+                class="aspect-[1/0.4345] object-cover w-full h-full lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
               />
             </div>
             <div
@@ -230,8 +250,10 @@
               <div
                 class="relative flex items-center pb-[17px] after:absolute after:top-[39.948px] after:h-[5.94792px] after:w-full after:bg-[rgb(85,212,56)] after:content-['']"
               >
-                <img
-                  src="~/assets/images/list9_ico2.png"
+                <NuxtImg
+                  format="webp"
+                  quality="80"
+                  src="/images/list9_ico2.png"
                   class="ml-[-5.1px] mr-[3.4px] max-h-[28.896px] max-w-[28.896px] overflow-clip"
                 />
                 <span style="line-height: 11.9px; font-size: 11.9px">微信</span>
@@ -249,9 +271,11 @@
             <div
               class="relative w-full overflow-hidden after:absolute after:bottom-0 after:left-0 after:right-0 after:top-0 after:bg-black/30 after:content-[''] lg:after:duration-500 lg:group-hover:after:opacity-0"
             >
-              <img
-                src="~/assets/images/84620C8308D997CE9D7CDA65219_8EB821F0_4998.jpg"
-                class="aspect-[1/0.8693] object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+              <NuxtImg
+                format="webp"
+                quality="80"
+                src="/images/84620C8308D997CE9D7CDA65219_8EB821F0_4998.jpg"
+                class="aspect-[1/0.8693] object-cover w-full h-full lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
               />
             </div>
             <div
@@ -269,8 +293,10 @@
               <div
                 class="relative flex items-center pb-[17px] after:absolute after:top-[39.948px] after:h-[5.94792px] after:w-full after:bg-[rgb(85,212,56)] after:content-['']"
               >
-                <img
-                  src="~/assets/images/list9_ico2.png"
+                <NuxtImg
+                  format="webp"
+                  quality="80"
+                  src="/images/list9_ico2.png"
                   class="ml-[-5.1px] mr-[3.4px] max-h-[28.896px] max-w-[28.896px] overflow-clip"
                 />
                 <span style="line-height: 11.9px; font-size: 11.9px">微信</span>
@@ -288,8 +314,10 @@
             <div
               class="relative w-full overflow-hidden after:absolute after:bottom-0 after:left-0 after:right-0 after:top-0 after:bg-black/30 after:content-[''] lg:after:duration-500 lg:group-hover:after:opacity-0"
             >
-              <img
-                src="~/assets/images/2BE0ECA585B65978251E2DA2A6B_273789F6_172B0.jpg"
+              <NuxtImg
+                format="webp"
+                quality="80"
+                src="/images/2BE0ECA585B65978251E2DA2A6B_273789F6_172B0.jpg"
                 class="aspect-[1/0.8693] object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
               />
             </div>
@@ -308,8 +336,10 @@
               <div
                 class="relative flex items-center pb-[17px] after:absolute after:top-[39.948px] after:h-[5.94792px] after:w-full after:bg-[rgb(85,212,56)] after:content-['']"
               >
-                <img
-                  src="~/assets/images/list9_ico2.png"
+                <NuxtImg
+                  format="webp"
+                  quality="80"
+                  src="/images/list9_ico2.png"
                   class="ml-[-5.1px] mr-[3.4px] max-h-[28.896px] max-w-[28.896px] overflow-clip"
                 />
                 <span style="line-height: 11.9px; font-size: 11.9px">微信</span>

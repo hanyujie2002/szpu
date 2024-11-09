@@ -48,9 +48,10 @@
             <div
               class="bg-more1 relative ml-[10.2px] mt-[-3px] flex h-[5.94792px] w-[25.5px] items-center overflow-hidden before:absolute before:bottom-0 before:left-0 before:right-0 before:top-0 before:translate-x-[-110%] before:bg-[length:100%_100%] before:bg-center before:bg-no-repeat before:duration-500 lg:w-[24px] lg:group-hover:before:translate-x-0"
             >
-              <img
-                class="duration-500 lg:group-hover:translate-x-[110%]"
-                src="~/assets/images/more1.svg"
+              <NuxtImg
+                quality="80"
+                class="duration-500 w-full h-full lg:group-hover:translate-x-[110%]"
+                src="/images/more1.svg"
               />
             </div>
           </NuxtLink>
@@ -68,9 +69,11 @@
               <div
                 class="list11-top-bg bg-size-full overflow-hidden after:absolute after:bottom-0 after:left-0 after:right-0 after:top-0 after:bg-[center_102%] after:bg-no-repeat after:content-['']"
               >
-                <img
+                <NuxtImg
+                  format="webp"
+                  quality="80"
                   class="aspect-[1/0.3872] select-none object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
-                  src="~/assets/images/37AAA58D940785BF2671D19CD6F_1B05DAD4_3E3E4.jpg"
+                  src="/images/37AAA58D940785BF2671D19CD6F_1B05DAD4_3E3E4.jpg"
                 />
               </div>
               <div
@@ -106,9 +109,11 @@
               <div
                 class="relative order-1 mb-[25.5px] mt-[42.5px] overflow-hidden md:order-2 md:mb-0"
               >
-                <img
+                <NuxtImg
+                  format="webp"
+                  quality="80"
                   class="aspect-[1/0.4563] object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
-                  src="~/assets/images/438041A7E1EE841E49054CE3013_836CB248_51011.jpg"
+                  src="/images/438041A7E1EE841E49054CE3013_836CB248_51011.jpg"
                 />
               </div>
             </NuxtLink>

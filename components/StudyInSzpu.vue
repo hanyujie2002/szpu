@@ -14,9 +14,11 @@
               <div
                 class="overflow-hidden after:absolute after:bottom-0 after:left-0 after:right-0 after:top-0 after:bg-[rgba(253,164,47,0.7)] after:opacity-0 after:transition-all after:duration-500 group-hover:after:opacity-100"
               >
-                <img
-                  src="~/assets/images/list7_img1.jpg"
-                  class="lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                <NuxtImg
+                  format="webp"
+                  quality="80"
+                  src="/images/list7_img1.jpg"
+                  class="object-cover w-full h-full lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
                 />
               </div>
               <div
@@ -37,9 +39,11 @@
                       style="animation-delay: 1000ms"
                     />
                   </div>
-                  <img
-                    src="~/assets/images/list7_ico.png"
-                    class="absolute bottom-0 left-0 right-0 top-0 animate-rotate"
+                  <NuxtImg
+                    format="webp"
+                    quality="80"
+                    src="/images/list7_ico.png"
+                    class="absolute w-full h-full bottom-0 left-0 right-0 top-0 animate-rotate"
                   />
                 </div>
               </div>
@@ -103,8 +107,9 @@
               <div
                 class="bg-list7 relative z-10 flex items-center overflow-hidden before:absolute before:bottom-0 before:left-0 before:right-0 before:top-0 before:translate-x-[-110%] before:bg-[length:100%_100%] before:bg-center before:bg-no-repeat before:duration-500 lg:group-hover:before:translate-x-0"
               >
-                <img
-                  src="~/assets/images/list7.svg"
+                <NuxtImg
+                  quality="80"
+                  src="/images/list7.svg"
                   class="w-[25.5px] overflow-clip duration-500 lg:w-[24px] lg:group-hover:translate-x-[110%]"
                 />
               </div>
@@ -126,8 +131,9 @@
               <div
                 class="bg-list7 relative z-10 flex items-center overflow-hidden before:absolute before:bottom-0 before:left-0 before:right-0 before:top-0 before:translate-x-[-110%] before:bg-[length:100%_100%] before:bg-center before:bg-no-repeat before:duration-500 lg:group-hover:before:translate-x-0"
               >
-                <img
-                  src="~/assets/images/list7.svg"
+                <NuxtImg
+                  quality="80"
+                  src="/images/list7.svg"
                   class="w-[25.5px] overflow-clip duration-500 lg:w-[24px] lg:group-hover:translate-x-[110%]"
                 />
               </div>
@@ -149,8 +155,9 @@
               <div
                 class="bg-list7 relative z-10 flex items-center overflow-hidden before:absolute before:bottom-0 before:left-0 before:right-0 before:top-0 before:translate-x-[-110%] before:bg-[length:100%_100%] before:bg-center before:bg-no-repeat before:duration-500 lg:group-hover:before:translate-x-0"
               >
-                <img
-                  src="~/assets/images/list7.svg"
+                <NuxtImg
+                  quality="80"
+                  src="/images/list7.svg"
                   class="w-[25.5px] overflow-clip duration-500 lg:w-[24px] lg:group-hover:translate-x-[110%]"
                 />
               </div>
@@ -172,8 +179,9 @@
               <div
                 class="bg-list7 relative z-10 flex items-center overflow-hidden before:absolute before:bottom-0 before:left-0 before:right-0 before:top-0 before:translate-x-[-110%] before:bg-[length:100%_100%] before:bg-center before:bg-no-repeat before:duration-500 lg:group-hover:before:translate-x-0"
               >
-                <img
-                  src="~/assets/images/list7.svg"
+                <NuxtImg
+                  quality="80"
+                  src="/images/list7.svg"
                   class="w-[25.5px] overflow-clip duration-500 lg:w-[24px] lg:group-hover:translate-x-[110%]"
                 />
               </div>

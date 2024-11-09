@@ -36,9 +36,11 @@
               title="[学习强国]深圳职业技术大学音乐微电影《我爱你中国》发布"
             >
               <div class="mb-[17px] overflow-hidden">
-                <img
+                <NuxtImg
+                  format="webp"
+                  quality="80"
                   class="lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
-                  src="~/assets/images/default/mtksz.jpg"
+                  src="/images/default/mtksz.jpg"
                   alt=""
                 />
               </div>
@@ -158,9 +160,11 @@
               class="group"
             >
               <div class="w-full overflow-hidden">
-                <img
+                <NuxtImg
+                  format="webp"
+                  quality="80"
                   class="aspect-[1/0.6154] lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
-                  src="~/assets/images/meitishenzhi.jpg"
+                  src="/images/meitishenzhi.jpg"
                 />
               </div>
             </NuxtLink>
@@ -212,9 +216,11 @@
               class="group"
             >
               <div class="w-full overflow-hidden">
-                <img
+                <NuxtImg
+                  format="webp"
+                  quality="80"
                   class="aspect-[1/0.6154] lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
-                  src="~/assets/images/meitishenzhi.jpg"
+                  src="/images/meitishenzhi.jpg"
                 />
               </div>
             </NuxtLink>
@@ -266,9 +272,11 @@
               class="group"
             >
               <div class="w-full overflow-hidden">
-                <img
+                <NuxtImg
+                  format="webp"
+                  quality="80"
                   class="aspect-[1/0.6154] lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
-                  src="~/assets/images/CB8E298308CADB4D7B7FDD327BC_51728C60_2DBA7.jpg"
+                  src="/images/CB8E298308CADB4D7B7FDD327BC_51728C60_2DBA7.jpg"
                 />
               </div>
             </NuxtLink>
@@ -320,9 +328,11 @@
               class="group"
             >
               <div class="w-full overflow-hidden">
-                <img
+                <NuxtImg
+                  format="webp"
+                  quality="80"
                   class="aspect-[1/0.6154] lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
-                  src="~/assets/images/FD45E1D3459A5E5A3E7238B5337_BD75B40F_4C9F0.jpg"
+                  src="/images/FD45E1D3459A5E5A3E7238B5337_BD75B40F_4C9F0.jpg"
                 />
               </div>
             </NuxtLink>
@@ -374,9 +384,11 @@
               class="group"
             >
               <div class="w-full overflow-hidden">
-                <img
+                <NuxtImg
+                  format="webp"
+                  quality="80"
                   class="aspect-[1/0.6154] lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
-                  src="~/assets/images/meitishenzhi.jpg"
+                  src="/images/meitishenzhi.jpg"
                 />
               </div>
             </NuxtLink>
@@ -425,9 +437,10 @@
             <button
               class="swiper-button-prev-1 bg-arrow-prev group relative overflow-hidden before:absolute before:bottom-0 before:left-0 before:right-0 before:top-0 before:translate-x-[110%] before:bg-[length:100%_100%] before:bg-center before:bg-no-repeat before:duration-500 lg:hover:before:translate-x-0"
             >
-              <img
+              <NuxtImg
+                quality="80"
                 class="relative h-[8.5px] duration-500 lg:group-hover:translate-x-[-110%]"
-                src="~/assets/images/arrow1_prev.svg"
+                src="/images/arrow1_prev.svg"
               />
             </button>
             <div
@@ -437,9 +450,10 @@
             <button
               class="swiper-button-next-1 bg-arrow-next group relative overflow-hidden before:absolute before:bottom-0 before:left-0 before:right-0 before:top-0 before:translate-x-[-110%] before:bg-[length:100%_100%] before:bg-center before:bg-no-repeat before:duration-500 lg:hover:before:translate-x-0"
             >
-              <img
+              <NuxtImg
+                quality="80"
                 class="h-[8.5px] duration-500 lg:group-hover:translate-x-[110%]"
-                src="~/assets/images/arrow1_next.svg"
+                src="/images/arrow1_next.svg"
               />
             </button>
           </div>

@@ -19,9 +19,11 @@
         <div
           class="relative h-full w-full after:absolute after:bottom-0 after:left-0 after:right-0 after:top-0 after:h-full after:w-screen after:translate-x-full after:bg-[#fda42f] after:transition-all after:delay-500 after:duration-2000 after:content-['']"
         >
-          <img
+          <NuxtImg
+            format="webp"
+            quality="80"
             class="h-full w-full object-cover"
-            src="~/assets/images/D558B28C53E63FCF20CED18E15D_1D82E1D9_ABC4F.jpg"
+            src="/images/D558B28C53E63FCF20CED18E15D_1D82E1D9_ABC4F.jpg"
           />
         </div>
       </SwiperSlide>
@@ -30,9 +32,11 @@
         <div
           class="relative h-full w-full after:absolute after:bottom-0 after:left-0 after:right-0 after:top-0 after:h-full after:w-screen after:translate-x-full after:bg-[#fda42f] after:transition-all after:delay-500 after:duration-2000 after:content-['']"
         >
-          <img
+          <NuxtImg
+            format="webp"
+            quality="80"
             class="h-full w-full object-cover"
-            src="~/assets/images/F5F3F23EBFC15FF3CD5545FFAF4_850386BB_841AC.jpg"
+            src="/images/F5F3F23EBFC15FF3CD5545FFAF4_850386BB_841AC.jpg"
           />
         </div>
       </SwiperSlide>
@@ -41,9 +45,11 @@
         <div
           class="relative h-full after:absolute after:bottom-0 after:left-0 after:right-0 after:top-0 after:h-full after:w-screen after:translate-x-full after:bg-[#fda42f] after:transition-all after:delay-500 after:duration-2000 after:content-['']"
         >
-          <img
+          <NuxtImg
+            format="webp"
+            quality="80"
             class="h-full w-full object-cover"
-            src="~/assets/images/7A10B88518FA37121DB6E2612D5_7756DA0A_A28BF.jpg"
+            src="/images/7A10B88518FA37121DB6E2612D5_7756DA0A_A28BF.jpg"
           />
         </div>
       </SwiperSlide>
@@ -52,9 +58,11 @@
         <div
           class="relative h-full w-full after:absolute after:bottom-0 after:left-0 after:right-0 after:top-0 after:h-full after:w-screen after:translate-x-full after:bg-[#fda42f] after:transition-all after:delay-500 after:duration-2000 after:content-['']"
         >
-          <img
+          <NuxtImg
+            format="webp"
+            quality="80"
             class="h-full w-full object-cover"
-            src="~/assets/images/B485CFB6A5C931E214AC4A178EE_AA04DFC3_614B4.jpg"
+            src="/images/B485CFB6A5C931E214AC4A178EE_AA04DFC3_614B4.jpg"
           />
         </div>
       </SwiperSlide>
@@ -122,9 +130,11 @@
             <div
               class="relative flex flex-col overflow-hidden before:absolute before:bottom-0 before:left-0 before:right-0 before:top-0 before:z-10 before:border-[2px] before:border-white"
             >
-              <img
+              <NuxtImg
+                format="webp"
+                quality="80"
                 class="aspect-[1/0.6516] lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
-                src="~/assets/images/D558B28C53E63FCF20CED18E15D_1D82E1D9_ABC4F.jpg"
+                src="/images/D558B28C53E63FCF20CED18E15D_1D82E1D9_ABC4F.jpg"
               />
             </div>
             <div
@@ -145,9 +155,11 @@
             <div
               class="relative overflow-hidden before:absolute before:bottom-0 before:left-0 before:right-0 before:top-0 before:z-10 before:border-[2px] before:border-white"
             >
-              <img
+              <NuxtImg
+                format="webp"
+                quality="80"
                 class="aspect-[1/0.6516] lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
-                src="~/assets/images/F5F3F23EBFC15FF3CD5545FFAF4_850386BB_841AC.jpg"
+                src="/images/F5F3F23EBFC15FF3CD5545FFAF4_850386BB_841AC.jpg"
               />
             </div>
             <div
@@ -168,9 +180,11 @@
             <div
               class="relative overflow-hidden before:absolute before:bottom-0 before:left-0 before:right-0 before:top-0 before:z-10 before:border-[2px] before:border-white"
             >
-              <img
+              <NuxtImg
+                format="webp"
+                quality="80"
                 class="aspect-[1/0.6516] lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
-                src="~/assets/images/7A10B88518FA37121DB6E2612D5_7756DA0A_A28BF.jpg"
+                src="/images/7A10B88518FA37121DB6E2612D5_7756DA0A_A28BF.jpg"
               />
             </div>
             <div
@@ -191,9 +205,11 @@
             <div
               class="relative overflow-hidden before:absolute before:bottom-0 before:left-0 before:right-0 before:top-0 before:z-10 before:border-[2px] before:border-white"
             >
-              <img
+              <NuxtImg
+                format="webp"
+                quality="80"
                 class="aspect-[1/0.6516] lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
-                src="~/assets/images/B485CFB6A5C931E214AC4A178EE_AA04DFC3_614B4.jpg"
+                src="/images/B485CFB6A5C931E214AC4A178EE_AA04DFC3_614B4.jpg"
               />
             </div>
             <div
