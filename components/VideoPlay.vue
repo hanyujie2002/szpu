@@ -10,7 +10,6 @@
       <div class="inline-block w-full">
         <video
           ref="video"
-          autoplay
           controls
           class="aspect-[1/0.6] object-cover"
           src="~/assets/videos/video1.mp4"
@@ -64,6 +63,8 @@ watch(
       video.value.currentTime = 0;
 
       video.value.play();
+    } else {
+      video.value.pause();
     }
   }
 );
