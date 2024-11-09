@@ -127,7 +127,9 @@
             <div
               class="border-t-[1.33333px] border-[#e5e5e5] pt-[17px] after:absolute after:left-0 after:top-0 after:h-[2px] after:w-0 after:duration-500 md:pt-[27.2px] lg:pt-[25.6px] lg:group-hover:after:w-full lg:group-hover:after:bg-[#ff860b]"
             >
-              <span class="font-normal" style="font-size: 13.6px; line-height: 13.6px"
+              <span
+                class="font-normal"
+                style="font-size: 13.6px; line-height: 13.6px"
                 >2023-12-14</span
               >
               <h4
@@ -147,7 +149,9 @@
             <div
               class="border-t-[1.33333px] border-[#e5e5e5] pt-[17px] after:absolute after:left-0 after:top-0 after:h-[2px] after:w-0 after:duration-500 md:pt-[27.2px] lg:pt-[25.6px] lg:group-hover:after:w-full lg:group-hover:after:bg-[#ff860b]"
             >
-              <span class="font-normal" style="font-size: 13.6px; line-height: 13.6px"
+              <span
+                class="font-normal"
+                style="font-size: 13.6px; line-height: 13.6px"
                 >2023-12-05</span
               >
               <h4
@@ -165,7 +169,9 @@
             <div
               class="border-t-[1.33333px] border-[#e5e5e5] pt-[17px] after:absolute after:left-0 after:top-0 after:h-[2px] after:w-0 after:duration-500 md:pt-[27.2px] lg:pt-[25.6px] lg:group-hover:after:w-full lg:group-hover:after:bg-[#ff860b]"
             >
-              <span class="font-normal" style="font-size: 13.6px; line-height: 13.6px"
+              <span
+                class="font-normal"
+                style="font-size: 13.6px; line-height: 13.6px"
                 >2023-08-28</span
               >
               <h4
@@ -219,7 +225,7 @@ const handleResize = () => {
     home3Bg.value.style.transform = `translate3d(0, 0, 0) rotateY(180deg)`;
     home5Bg2.value.style.transform = `translate3d(0, 0, 0)`;
   }
-}
+};
 
 onMounted(() => {
   window.addEventListener('scroll', handleScroll);

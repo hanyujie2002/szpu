@@ -48,7 +48,9 @@
               >
                 [学习强国]深圳职业技术大学音乐微电影《我爱你中国》发布
               </h4>
-              <span class="mt-[8.5px] text-[#888] font-normal" style="font-size: 13.6px"
+              <span
+                class="mt-[8.5px] font-normal text-[#888]"
+                style="font-size: 13.6px"
                 >2024.10.02</span
               >
             </NuxtLink>
@@ -67,7 +69,9 @@
               >
                 [中国青年报]深圳职业技术大学推出音乐微电影《我爱你中国》
               </h4>
-              <span class="mt-[8.5px] text-[#888] font-normal" style="font-size: 13.6px"
+              <span
+                class="mt-[8.5px] font-normal text-[#888]"
+                style="font-size: 13.6px"
                 >2024.10.01</span
               >
             </NuxtLink>
@@ -86,7 +90,9 @@
               >
                 [深圳plus]“深湾之境”摄影展在深圳青年美术馆展出，为期一个月
               </h4>
-              <span class="mt-[8.5px] text-[#888] font-normal" style="font-size: 13.6px"
+              <span
+                class="mt-[8.5px] font-normal text-[#888]"
+                style="font-size: 13.6px"
                 >2024.10.08</span
               >
             </NuxtLink>
@@ -105,7 +111,9 @@
               >
                 [读创]“深湾之境”摄影展在深圳青年美术馆启幕
               </h4>
-              <span class="mt-[8.5px] text-[#888] font-normal" style="font-size: 13.6px"
+              <span
+                class="mt-[8.5px] font-normal text-[#888]"
+                style="font-size: 13.6px"
                 >2024.10.04</span
               >
             </NuxtLink>
@@ -470,7 +478,7 @@
               title="2024年12月1日日语能力考试深圳职业技术大学考点入校要求暨2024年7月日语能力考试合格证、成绩单领取通知"
             >
               <span
-                class="mr-[12.75px] block font-normal min-w-[51px] bg-[#eff1f2] text-center text-[#666] duration-500 lg:group-hover:bg-[#ff860b] lg:group-hover:text-white"
+                class="mr-[12.75px] block min-w-[51px] bg-[#eff1f2] text-center font-normal text-[#666] duration-500 lg:group-hover:bg-[#ff860b] lg:group-hover:text-white"
                 style="line-height: 30.6px; font-size: 13.6px"
                 >10.16</span
               >
@@ -491,7 +499,7 @@
               title="集成电路关键材料研究院招聘"
             >
               <span
-                class="mr-[12.75px] block font-normal min-w-[51px] bg-[#eff1f2] text-center text-[#666] duration-500 lg:group-hover:bg-[#ff860b] lg:group-hover:text-white"
+                class="mr-[12.75px] block min-w-[51px] bg-[#eff1f2] text-center font-normal text-[#666] duration-500 lg:group-hover:bg-[#ff860b] lg:group-hover:text-white"
                 style="line-height: 30.6px; font-size: 13.6px"
                 >09.30</span
               >
@@ -512,7 +520,7 @@
               title="关于2024年12月份全国外语等级考试报名的通知"
             >
               <span
-                class="mr-[12.75px] block font-normal min-w-[51px] bg-[#eff1f2] text-center text-[#666] duration-500 lg:group-hover:bg-[#ff860b] lg:group-hover:text-white"
+                class="mr-[12.75px] block min-w-[51px] bg-[#eff1f2] text-center font-normal text-[#666] duration-500 lg:group-hover:bg-[#ff860b] lg:group-hover:text-white"
                 style="line-height: 30.6px; font-size: 13.6px"
                 >09.11</span
               >
@@ -533,7 +541,7 @@
               title="深圳职业技术大学2024年博士后招聘公告"
             >
               <span
-                class="mr-[12.75px] block font-normal min-w-[51px] bg-[#eff1f2] text-center text-[#666] duration-500 lg:group-hover:bg-[#ff860b] lg:group-hover:text-white"
+                class="mr-[12.75px] block min-w-[51px] bg-[#eff1f2] text-center font-normal text-[#666] duration-500 lg:group-hover:bg-[#ff860b] lg:group-hover:text-white"
                 style="line-height: 30.6px; font-size: 13.6px"
                 >03.04</span
               >
@@ -554,7 +562,7 @@
               title="智能科学与工程研究院招聘公告2024"
             >
               <span
-                class="mr-[12.75px] block font-normal min-w-[51px] bg-[#eff1f2] text-center text-[#666] duration-500 lg:group-hover:bg-[#ff860b] lg:group-hover:text-white"
+                class="mr-[12.75px] block min-w-[51px] bg-[#eff1f2] text-center font-normal text-[#666] duration-500 lg:group-hover:bg-[#ff860b] lg:group-hover:text-white"
                 style="line-height: 30.6px; font-size: 13.6px"
                 >02.29</span
               >
@@ -575,7 +583,7 @@
               title="深圳职业技术大学高层次人才招聘公告（长期招聘）"
             >
               <span
-                class="mr-[12.75px] block font-normal min-w-[51px] bg-[#eff1f2] text-center text-[#666] duration-500 lg:group-hover:bg-[#ff860b] lg:group-hover:text-white"
+                class="mr-[12.75px] block min-w-[51px] bg-[#eff1f2] text-center font-normal text-[#666] duration-500 lg:group-hover:bg-[#ff860b] lg:group-hover:text-white"
                 style="line-height: 30.6px; font-size: 13.6px"
                 >10.26</span
               >
@@ -624,7 +632,7 @@ const handleResize = () => {
     left.value.style.transform = `translate3d(0, 0, 0)`;
     right.value.style.transform = `translate3d(0, 0, 0)`;
   }
-}
+};
 
 onMounted(() => {
   window.addEventListener('scroll', handleScroll);

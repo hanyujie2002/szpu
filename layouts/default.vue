@@ -2,7 +2,11 @@
   <div>
     <LayoutMobileSideNav
       class=""
-      :class="isMobileSlideNavHidden ? 'right-[-105vw] opacity-0': 'right-0 opacity-100'"
+      :class="
+        isMobileSlideNavHidden
+          ? 'right-[-105vw] opacity-0'
+          : 'right-0 opacity-100'
+      "
     />
 
     <div class="flex w-full flex-col">

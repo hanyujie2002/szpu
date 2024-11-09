@@ -18,6 +18,6 @@ useHead({
   title: '深圳职业技术大学',
   htmlAttrs: {
     lang: 'zh-cn',
-  }
-})
+  },
+});
 </script>

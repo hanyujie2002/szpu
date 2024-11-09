@@ -1,6 +1,6 @@
 <template>
   <nav
-    class="fixed z-50 block transition-all duration-300 ease-out h-dvh overflow-hidden w-screen bg-[rgb(241,241,241)] overflow-y-scroll px-[20px] pb-[30px] pt-[90px] text-[#333]"
+    class="fixed z-50 block h-dvh w-screen overflow-hidden overflow-y-scroll bg-[rgb(241,241,241)] px-[20px] pb-[30px] pt-[90px] text-[#333] transition-all duration-300 ease-out"
   >
     <ul
       class="mb-[17px] flex h-[25.5px] flex-wrap items-center justify-center pb-[5.1px]"

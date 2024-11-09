@@ -220,7 +220,7 @@ const handleResize = () => {
   if (window.innerWidth <= 1024) {
     home3Bg.value.style.transform = `translate3d(0, 0, 0)`;
   }
-}
+};
 
 onMounted(() => {
   window.addEventListener('scroll', handleScroll);
