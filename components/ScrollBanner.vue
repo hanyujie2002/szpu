@@ -33,6 +33,7 @@
                 class="aspect-[1/0.56] w-full object-cover lg:aspect-auto lg:h-dvh"
                 muted
                 autoplay
+                preload="auto"
                 playsinline="true"
                 x5-playsinline
                 webkit-playsinline
