@@ -143,7 +143,12 @@
           class="relative z-10 mx-auto mt-[-85px] w-[148.75px] translate-y-[114.75px] md:mx-0 md:mt-0 md:w-[185.292px] lg:w-[174.396px]"
         >
           <li>
-            <img src="~/assets/images/new_ewm.jpg" />
+            <NuxtImg
+              format="webp"
+              quality="80"
+              class="h-full w-full"
+              src="/images/new_ewm.jpg"
+            />
             <h6
               class="mt-[13.6px] text-center text-white"
               style="font-size: 13.6px; line-height: 18.7px"
