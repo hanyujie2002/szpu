@@ -173,7 +173,7 @@
             <img
               class="max-h-[54.4px] max-md:mx-auto"
               src="~/assets/images/logo_red.png"
-            />
+            >
           </div>
           <div class="max-md:text-center lg:flex lg:flex-wrap">
             <div class="text-white md:mr-[42.5px]">

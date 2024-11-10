@@ -17,7 +17,7 @@
           class="h-[24px] w-[24px] duration-500 ease-[cubic-bezier(.44,0,0,1)] group-hover:rotate-90 group-hover:scale-125"
           alt="Close menu button"
           src="~/assets/images/close-menu.png"
-        />
+        >
       </button>
     </div>
 
@@ -36,7 +36,7 @@
                 <img
                   class="inline overflow-clip"
                   src="~/assets/images/logo_new_small.jpg"
-                />
+                >
               </span>
             </div>
           </div>
@@ -465,6 +465,8 @@ defineProps({
     default: false,
   },
 });
+
+defineEmits(['hide-wide-slide-nav']);
 </script>
 
 <style scoped>

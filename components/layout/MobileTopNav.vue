@@ -11,7 +11,7 @@
           aria-label="Home Page"
           @click="$emit('hide-fixed-menu')"
           ><img src="~/assets/images/2023/logo_red.png" class="h-[38.25px]"
-        /></NuxtLink>
+        ></NuxtLink>
       </li>
       <li class="my-auto ml-auto hidden lg:list-item">
         <button title="Search" aria-label="Open Search Modal">
@@ -60,6 +60,8 @@ defineProps({
     default: true,
   },
 });
+
+defineEmits(['hide-fixed-menu', 'toggle-fixed-menu-state']);
 </script>
 
 <style scoped>

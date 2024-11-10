@@ -7,7 +7,7 @@
     <div
       class="flex w-full flex-wrap items-center px-[15px] md:px-[59.5px] lg:mx-auto lg:w-[1200px] lg:max-w-[94%] lg:px-0"
     >
-      <button @click="showVideoPlay" class="w-full select-none md:w-[56%]">
+      <button class="w-full select-none md:w-[56%]" @click="showVideoPlay">
         <ul data-aos="fade-up" class="!duration-1000">
           <li class="list-item">
             <NuxtLink class="group relative block">
@@ -25,7 +25,7 @@
                 class="absolute bottom-0 left-0 right-0 top-0 flex items-center justify-center"
               >
                 <div class="relative h-[74.7917px] w-[74.7917px]">
-                  <img src="~/assets/images/list7_ico1.png" />
+                  <img src="~/assets/images/list7_ico1.png" >
                   <div class="absolute bottom-0 left-0 right-0 top-0">
                     <div
                       class="absolute h-[73.458px] w-[73.458px] animate-circle rounded-full border-[0.667px] border-[rgba(255,255,255,0.5)]"
@@ -192,13 +192,13 @@
     </div>
 
     <LazyVideoPlay
-      @hide-video-play="hideVideoPlay"
       :is-video-play-active
       :class="
         isVideoPlayActive
           ? 'block opacity-100 duration-300'
           : 'invisible opacity-0'
       "
+      @hide-video-play="hideVideoPlay"
     />
   </section>
 </template>
