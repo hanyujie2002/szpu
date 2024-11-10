@@ -8,7 +8,6 @@
 
 <style>
 :root {
-  @apply scrollbar:hidden lg:scrollbar:block lg:scrollbar:h-[8px] lg:scrollbar:w-[4px] lg:scrollbar:bg-[#f5f5f5] lg:scrollbar-thumb:bg-[#333];
   --header-height: 63.75px;
 }
 </style>
