@@ -1,21 +1,20 @@
 <template>
   <div class="">
-     <LayoutMobileTopNav
-        :is-mobile-slide-nav-hidden
-        @hide-fixed-menu="hideFixedMenu"
-        @toggle-fixed-menu-state="toggleFixedMenuState"
-      />
-
+    <LayoutMobileTopNav
+      :is-mobile-slide-nav-hidden
+      @hide-fixed-menu="hideFixedMenu"
+      @toggle-fixed-menu-state="toggleFixedMenuState"
+    />
 
     <div class="overflow-x-hidden">
-    <LayoutMobileSideNav
-      class=""
-      :class="
-        isMobileSlideNavHidden
-          ? 'translate-x-[105vw] opacity-0'
-          : 'translate-x-0 opacity-100'
-      "
-    />
+      <LayoutMobileSideNav
+        class=""
+        :class="
+          isMobileSlideNavHidden
+            ? 'translate-x-[105vw] opacity-0'
+            : 'translate-x-0 opacity-100'
+        "
+      />
 
       <LazyLayoutWideTopNav
         @show-wide-slide-nav="showWideSlideNav"
