@@ -1,11 +1,11 @@
 <template>
-  <div>
+  <div class="w-full overflow-x-hidden">
     <LayoutMobileSideNav
       class=""
       :class="
         isMobileSlideNavHidden
-          ? 'right-[-105vw] opacity-0'
-          : 'right-0 opacity-100'
+          ? 'translate-x-[105vw] opacity-0'
+          : 'translate-x-0 opacity-100'
       "
     />
 

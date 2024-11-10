@@ -60,9 +60,9 @@
 
       <div class="flex flex-wrap items-end !duration-1000" data-aos="fade-up">
         <ul class="w-full md:w-[68%] md:pr-[17.04px]">
-          <li>
+          <li class="relative">
             <NuxtLink
-              class="group relative"
+              class="group"
               to="info/1095/20634.htm"
               title="我校携400余件师生作品参展文博会"
             >

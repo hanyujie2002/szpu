@@ -122,7 +122,7 @@
               />
             </div>
             <div
-              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[29.75px] text-white duration-500 lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
+              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[15px] md:px-[29.75px] text-white duration-500 lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
             >
               <span style="font-size: 13.6px; line-height: 13.6px"
                 >2024-10-21</span
@@ -165,7 +165,7 @@
               />
             </div>
             <div
-              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[29.75px] text-white duration-500 lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
+              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[15px] md:px-[29.75px] text-white duration-500 lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
             >
               <span style="font-size: 13.6px; line-height: 13.6px"
                 >2024-10-18</span
@@ -208,7 +208,7 @@
               />
             </div>
             <div
-              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[29.75px] text-white duration-500 lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
+              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[15px] md:px-[29.75px] text-white duration-500 lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
             >
               <span style="font-size: 13.6px; line-height: 13.6px"
                 >2024-10-18</span
@@ -251,7 +251,7 @@
               />
             </div>
             <div
-              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[29.75px] text-white duration-500 lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
+              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[15px] md:px-[29.75px] text-white duration-500 lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
             >
               <span style="font-size: 13.6px; line-height: 13.6px"
                 >2024-10-16</span
@@ -294,7 +294,7 @@
               />
             </div>
             <div
-              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[29.75px] text-white duration-500 lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
+              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[15px] md:px-[29.75px] text-white duration-500 lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
             >
               <span style="font-size: 13.6px; line-height: 13.6px"
                 >2024-10-15</span
@@ -337,7 +337,7 @@
               />
             </div>
             <div
-              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[29.75px] text-white duration-500 lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
+              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[15px] md:px-[29.75px] text-white duration-500 lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
             >
               <span style="font-size: 13.6px; line-height: 13.6px"
                 >2024-10-14</span
