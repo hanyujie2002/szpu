@@ -15,7 +15,11 @@
       </li>
       <li class="ml-auto">
         <NuxtLink to="xxgk/xxjj" class="group flex items-center">
-          <span class="mr-[10.2px] uppercase text-white" style="font-family: Arial, Helvetica, sans-serif;">...</span>
+          <span
+            class="mr-[10.2px] uppercase text-white"
+            style="font-family: Arial, Helvetica, sans-serif"
+            >...</span
+          >
           <div
             class="relative z-10 flex h-[34px] w-[34px] items-center justify-center rounded-full bg-white/50 before:absolute before:bottom-0 before:left-0 before:right-0 before:top-0 before:-z-10 before:scale-0 before:rounded-full before:bg-[#fba33e] before:duration-500 before:content-[''] group-hover:before:scale-[1.2]"
           >
