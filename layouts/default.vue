@@ -64,7 +64,6 @@ const hideWideSlideNav = () => {
 
 const hideFixedMenu = () => {
   isMobileSlideNavHidden.value = true;
-  documentElement.value.classList.remove('overflow-hidden');
 };
 
 const showWideSearch = () => {
@@ -76,12 +75,6 @@ const hideWideSearch = () => {
 };
 
 const toggleFixedMenuState = () => {
-  if (isMobileSlideNavHidden.value === true) {
-    documentElement.value.classList.add('overflow-hidden');
-  } else {
-    documentElement.value.classList.remove('overflow-hidden');
-  }
-
   isMobileSlideNavHidden.value = !isMobileSlideNavHidden.value;
 };
 </script>
