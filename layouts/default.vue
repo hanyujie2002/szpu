@@ -1,5 +1,13 @@
 <template>
-  <div class="w-full overflow-x-hidden">
+  <div class="">
+     <LayoutMobileTopNav
+        :is-mobile-slide-nav-hidden
+        @hide-fixed-menu="hideFixedMenu"
+        @toggle-fixed-menu-state="toggleFixedMenuState"
+      />
+
+
+    <div class="overflow-x-hidden">
     <LayoutMobileSideNav
       class=""
       :class="
@@ -8,13 +16,6 @@
           : 'translate-x-0 opacity-100'
       "
     />
-
-    <div class="flex w-full flex-col">
-      <LazyLayoutMobileTopNav
-        :is-mobile-slide-nav-hidden
-        @hide-fixed-menu="hideFixedMenu"
-        @toggle-fixed-menu-state="toggleFixedMenuState"
-      />
 
       <LazyLayoutWideTopNav
         @show-wide-slide-nav="showWideSlideNav"
