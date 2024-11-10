@@ -7,19 +7,19 @@
       style="font-size: 13.6px; line-height: 13.6px"
     >
       <li class="px-[5.1px]">
-        <NuxtLink>学生</NuxtLink>
+        <NuxtLink to="xxgk/xxjj">学生</NuxtLink>
       </li>
       <li class="px-[5.1px]">
-        <NuxtLink>教工</NuxtLink>
+        <NuxtLink to="xxgk/xxjj">教工</NuxtLink>
       </li>
       <li class="px-[5.1px]">
-        <NuxtLink>访客</NuxtLink>
+        <NuxtLink to="xxgk/xxjj">访客</NuxtLink>
       </li>
       <li class="px-[5.1px]">
-        <NuxtLink>人才招聘</NuxtLink>
+        <NuxtLink to="xxgk/xxjj">人才招聘</NuxtLink>
       </li>
       <li class="px-[5.1px]">
-        <NuxtLink>图书馆</NuxtLink>
+        <NuxtLink to="xxgk/xxjj">图书馆</NuxtLink>
       </li>
     </ul>
 
