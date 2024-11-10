@@ -105,7 +105,7 @@
       </div>
 
       <ul class="!z-0 flex flex-wrap !duration-1000" data-aos="fade-up">
-        <li class="w-1/2 md:w-1/4 relative">
+        <li class="relative w-1/2 md:w-1/4">
           <NuxtLink
             class="group"
             to="https://mp.weixin.qq.com/s/zpHDixzQLBuTggxKSg4lAg"
@@ -118,11 +118,11 @@
                 format="webp"
                 quality="80"
                 src="/images/175454FF3398EA377A652214492_F15B370F_1C996.jpg"
-                class="aspect-[1/0.8693] object-cover w-full h-full lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08] select-none"
+                class="aspect-[1/0.8693] h-full w-full select-none object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
               />
             </div>
             <div
-              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[15px] md:px-[29.75px] text-white duration-500 lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
+              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[15px] text-white duration-500 md:px-[29.75px] lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
             >
               <span style="font-size: 13.6px; line-height: 13.6px"
                 >2024-10-21</span
@@ -148,7 +148,7 @@
           </NuxtLink>
         </li>
 
-        <li class="w-1/2 md:w-1/4 relative">
+        <li class="relative w-1/2 md:w-1/4">
           <NuxtLink
             class="group"
             to="https://mp.weixin.qq.com/s/zpHDixzQLBuTggxKSg4lAg"
@@ -161,11 +161,11 @@
                 format="webp"
                 quality="80"
                 src="/images/1AAD47A83DB0B869EAEBB11EB7C_C1D7EC53_A775.jpg"
-                class="aspect-[1/0.8693] h-full w-full object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08] select-none"
+                class="aspect-[1/0.8693] h-full w-full select-none object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
               />
             </div>
             <div
-              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[15px] md:px-[29.75px] text-white duration-500 lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
+              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[15px] text-white duration-500 md:px-[29.75px] lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
             >
               <span style="font-size: 13.6px; line-height: 13.6px"
                 >2024-10-18</span
@@ -191,7 +191,7 @@
           </NuxtLink>
         </li>
 
-        <li class="w-full md:w-1/2 relative">
+        <li class="relative w-full md:w-1/2">
           <NuxtLink
             class="group"
             to="https://mp.weixin.qq.com/s/zpHDixzQLBuTggxKSg4lAg"
@@ -204,11 +204,11 @@
                 format="webp"
                 quality="80"
                 src="/images/DC263E6255361CF2D6976FAC664_2A877B94_7CD3.jpg"
-                class="aspect-[1/0.4345] w-full h-full object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08] select-none"
+                class="aspect-[1/0.4345] h-full w-full select-none object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
               />
             </div>
             <div
-              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[15px] md:px-[29.75px] text-white duration-500 lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
+              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[15px] text-white duration-500 md:px-[29.75px] lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
             >
               <span style="font-size: 13.6px; line-height: 13.6px"
                 >2024-10-18</span
@@ -234,7 +234,7 @@
           </NuxtLink>
         </li>
 
-        <li class="w-full md:w-1/2 relative">
+        <li class="relative w-full md:w-1/2">
           <NuxtLink
             class="group"
             to="https://mp.weixin.qq.com/s/zpHDixzQLBuTggxKSg4lAg"
@@ -247,11 +247,11 @@
                 format="webp"
                 quality="80"
                 src="/images/939021757320719DB84B52495BA_BB4676DE_305E.jpg"
-                class="aspect-[1/0.4345] h-full w-full object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08] select-none"
+                class="aspect-[1/0.4345] h-full w-full select-none object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
               />
             </div>
             <div
-              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[15px] md:px-[29.75px] text-white duration-500 lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
+              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[15px] text-white duration-500 md:px-[29.75px] lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
             >
               <span style="font-size: 13.6px; line-height: 13.6px"
                 >2024-10-16</span
@@ -277,7 +277,7 @@
           </NuxtLink>
         </li>
 
-        <li class="w-1/2 md:w-1/4 relative">
+        <li class="relative w-1/2 md:w-1/4">
           <NuxtLink
             class="group"
             to="https://mp.weixin.qq.com/s/zpHDixzQLBuTggxKSg4lAg"
@@ -290,11 +290,11 @@
                 format="webp"
                 quality="80"
                 src="/images/84620C8308D997CE9D7CDA65219_8EB821F0_4998.jpg"
-                class="aspect-[1/0.8693] h-full w-full object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08] select-none"
+                class="aspect-[1/0.8693] h-full w-full select-none object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
               />
             </div>
             <div
-              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[15px] md:px-[29.75px] text-white duration-500 lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
+              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[15px] text-white duration-500 md:px-[29.75px] lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
             >
               <span style="font-size: 13.6px; line-height: 13.6px"
                 >2024-10-15</span
@@ -320,7 +320,7 @@
           </NuxtLink>
         </li>
 
-        <li class="w-1/2 md:w-1/4 relative">
+        <li class="relative w-1/2 md:w-1/4">
           <NuxtLink
             class="group"
             to="https://mp.weixin.qq.com/s/zpHDixzQLBuTggxKSg4lAg"
@@ -333,11 +333,11 @@
                 format="webp"
                 quality="80"
                 src="/images/2BE0ECA585B65978251E2DA2A6B_273789F6_172B0.jpg"
-                class="aspect-[1/0.8693] object-cover w-full h-full lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08] select-none"
+                class="aspect-[1/0.8693] h-full w-full select-none object-cover lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
               />
             </div>
             <div
-              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[15px] md:px-[29.75px] text-white duration-500 lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
+              class="absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[15px] text-white duration-500 md:px-[29.75px] lg:group-hover:translate-x-[8px] lg:group-hover:opacity-0"
             >
               <span style="font-size: 13.6px; line-height: 13.6px"
                 >2024-10-14</span

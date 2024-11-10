@@ -22,7 +22,7 @@
           <NuxtImg
             format="webp"
             quality="80"
-            class="h-full w-full object-cover select-none"
+            class="h-full w-full select-none object-cover"
             src="/images/D558B28C53E63FCF20CED18E15D_1D82E1D9_ABC4F.jpg"
           />
         </div>
@@ -35,7 +35,7 @@
           <NuxtImg
             format="webp"
             quality="80"
-            class="h-full w-full object-cover select-none"
+            class="h-full w-full select-none object-cover"
             src="/images/F5F3F23EBFC15FF3CD5545FFAF4_850386BB_841AC.jpg"
           />
         </div>
@@ -48,7 +48,7 @@
           <NuxtImg
             format="webp"
             quality="80"
-            class="h-full w-full object-cover select-none"
+            class="h-full w-full select-none object-cover"
             src="/images/7A10B88518FA37121DB6E2612D5_7756DA0A_A28BF.jpg"
           />
         </div>
@@ -61,7 +61,7 @@
           <NuxtImg
             format="webp"
             quality="80"
-            class="h-full w-full object-cover select-none"
+            class="h-full w-full select-none object-cover"
             src="/images/B485CFB6A5C931E214AC4A178EE_AA04DFC3_614B4.jpg"
           />
         </div>
@@ -133,7 +133,7 @@
               <NuxtImg
                 format="webp"
                 quality="80"
-                class="aspect-[1/0.6516] w-full h-full select-none lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                class="aspect-[1/0.6516] h-full w-full select-none lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
                 src="/images/D558B28C53E63FCF20CED18E15D_1D82E1D9_ABC4F.jpg"
               />
             </div>
@@ -158,7 +158,7 @@
               <NuxtImg
                 format="webp"
                 quality="80"
-                class="aspect-[1/0.6516] w-full h-full select-none lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                class="aspect-[1/0.6516] h-full w-full select-none lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
                 src="/images/F5F3F23EBFC15FF3CD5545FFAF4_850386BB_841AC.jpg"
               />
             </div>
@@ -183,7 +183,7 @@
               <NuxtImg
                 format="webp"
                 quality="80"
-                class="aspect-[1/0.6516] w-full h-full select-none lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                class="aspect-[1/0.6516] h-full w-full select-none lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
                 src="/images/7A10B88518FA37121DB6E2612D5_7756DA0A_A28BF.jpg"
               />
             </div>
@@ -208,7 +208,7 @@
               <NuxtImg
                 format="webp"
                 quality="80"
-                class="aspect-[1/0.6516] w-full h-full select-none lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
+                class="aspect-[1/0.6516] h-full w-full select-none lg:object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
                 src="/images/B485CFB6A5C931E214AC4A178EE_AA04DFC3_614B4.jpg"
               />
             </div>
