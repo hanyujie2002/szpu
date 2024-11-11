@@ -72,6 +72,7 @@
             SwiperPagination,
           ]"
           :slides-per-view="1.15"
+          :loop="true"
           space-between="15"
           wrapper-tag="ul"
           tag="div"
@@ -93,7 +94,7 @@
           class="!overflow-hidden"
         >
           <SwiperSlide
-            v-for="item in items"
+            v-for="item in loopSlides"
             :key="item.articleID"
             class="mr-[15px] !list-item h-full md:!w-[calc((100%_-_30px)/3)] xl:mr-[25px] xl:!w-[calc((100%_-50px)/3)] 2xl:mr-[66px] 2xl:!w-[calc((100%_-132px)/3)]"
           >
@@ -140,6 +141,7 @@ const { data, status, error, refresh, clear } = await useFetch('https://www.haoj
 })
 
 const items = ref(data.value.body.data.rows)
+const loopSlides = ref([...items.value, ...items.value])
 </script>
 
 <style></style>
