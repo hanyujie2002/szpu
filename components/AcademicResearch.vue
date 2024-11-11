@@ -99,8 +99,7 @@
           >
             <NuxtLink :to="item.functionURL" class="group inline">
               <div class="relative block w-full overflow-hidden">
-                <NuxtImg
-                  format="webp"
+                <img
                   :src="item.listImage"
                   class="aspect-[1/0.6154] h-full w-full select-none object-cover lg:transition-transform lg:duration-1000 lg:ease-[cubic-bezier(0.25,0,0,1)] lg:group-hover:scale-[1.08]"
                 />
