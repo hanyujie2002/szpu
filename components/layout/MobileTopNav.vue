@@ -11,7 +11,7 @@
           aria-label="Home Page"
           @click="$emit('hide-fixed-menu')"
           ><img src="~/assets/images/2023/logo_red.png" class="h-[38.25px]"
-        ></NuxtLink>
+        /></NuxtLink>
       </li>
       <li class="ml-auto">
         <NuxtLink to="xxgk/xxjj" class="group flex items-center">
@@ -27,7 +27,7 @@
               class="flex h-[16px] w-[16px]"
               style="line-height: 32px"
               src="/images/list1_ico2.svg"
-            >
+            />
           </div>
         </NuxtLink>
       </li>

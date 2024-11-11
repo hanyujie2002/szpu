@@ -23,7 +23,7 @@
                 class="h-[48px] w-[588.792px] flex-shrink flex-grow overflow-clip pl-[19.2px] text-[16px] leading-[6.4px] focus:outline-none"
                 style="font-family: Arial, Helvetica"
                 autocomplete="off"
-              >
+              />
               <button
                 type="submit"
                 class="bg-search-btn h-[48px] w-[51.1979px] flex-shrink-0 bg-[#fba33e] bg-[length:24px] bg-center bg-no-repeat"

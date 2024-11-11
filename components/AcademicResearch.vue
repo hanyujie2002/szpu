@@ -66,11 +66,7 @@
 
       <div data-aos="fade-up" class="!duration-1000">
         <Swiper
-          :modules="[
-            SwiperAutoplay,
-            SwiperNavigation,
-            SwiperPagination,
-          ]"
+          :modules="[SwiperAutoplay, SwiperNavigation, SwiperPagination]"
           :slides-per-view="1.15"
           :loop="true"
           space-between="15"
@@ -130,18 +126,21 @@
 </template>
 
 <script setup>
-const { data, status, error, refresh, clear } = await useFetch('https://www.haoju.me/interface-server/api/getNavigatorSimpleArticleList.json', {
-  pick: ['body'],
-  query: {
-    siteID: '8a2f462a8b3ba8d7018b3cbe523202a1',
-    applicationID: '8a2f462a5d116c5d015d2088f9670dc4',
-    navigatorID: '0e7b55547f2d45ddab87d7814d69161b',
-    sortTypeOrder: '1',
+const { data, status, error, refresh, clear } = await useFetch(
+  'https://www.haoju.me/interface-server/api/getNavigatorSimpleArticleList.json',
+  {
+    pick: ['body'],
+    query: {
+      siteID: '8a2f462a8b3ba8d7018b3cbe523202a1',
+      applicationID: '8a2f462a5d116c5d015d2088f9670dc4',
+      navigatorID: '0e7b55547f2d45ddab87d7814d69161b',
+      sortTypeOrder: '1',
+    },
   }
-})
+);
 
-const items = ref(data.value.body.data.rows)
-const loopSlides = ref([...items.value, ...items.value])
+const items = ref(data.value.body.data.rows);
+const loopSlides = ref([...items.value, ...items.value]);
 </script>
 
 <style></style>

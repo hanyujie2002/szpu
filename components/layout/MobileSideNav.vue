@@ -30,7 +30,7 @@
             placeholder="请输入搜索关键词"
             class="h-[44px] w-[calc(100%_-_66px)] rounded-l-full border border-[#fba33e] px-[20.4px] text-[#646464] focus:outline-none"
             style="font-size: 14px"
-          >
+          />
           <button
             class="bg-submit absolute h-[44px] w-[66px] cursor-pointer rounded-r-full bg-[#fba33e] bg-center bg-no-repeat"
           />
