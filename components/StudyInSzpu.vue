@@ -25,7 +25,7 @@
                 class="absolute bottom-0 left-0 right-0 top-0 flex items-center justify-center"
               >
                 <div class="relative h-[74.7917px] w-[74.7917px]">
-                  <img src="~/assets/images/list7_ico1.png" >
+                  <img src="~/assets/images/list7_ico1.png" />
                   <div class="absolute bottom-0 left-0 right-0 top-0">
                     <div
                       class="absolute h-[73.458px] w-[73.458px] animate-circle rounded-full border-[0.667px] border-[rgba(255,255,255,0.5)]"

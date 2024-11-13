@@ -44,7 +44,7 @@
                 <source
                   src="~/assets/videos/4CF8CAC9F0893DA67BF3A06E9A7_89918CB5_10F0462.mp4"
                   type="video/mp4"
-                >
+                />
               </video>
             </div>
           </div>
@@ -61,7 +61,7 @@
               <img
                 class="aspect-[1/0.56] w-full object-cover lg:aspect-auto lg:h-dvh"
                 src="~/assets/images/A1BEE7809537B652A12F4E03D0F_B43B87BE_355A1.jpg"
-              >
+              />
             </div>
           </div>
         </NuxtLink>
@@ -77,7 +77,7 @@
               <img
                 class="aspect-[1/0.56] w-full object-cover lg:aspect-auto lg:h-dvh"
                 src="~/assets/images/883079AF7CEE30D30FF8A986183_8391136D_2F2AD.jpg"
-              >
+              />
             </div>
           </div>
         </NuxtLink>
@@ -100,7 +100,7 @@
                 <source
                   src="~/assets/videos/DF24A75EC06F2A8C08100119724_60C7C211_19DE7B4.mp4"
                   type="video/mp4"
-                >
+                />
               </video>
             </div>
           </div>

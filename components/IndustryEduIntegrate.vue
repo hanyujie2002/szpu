@@ -77,7 +77,7 @@
                 />
               </div>
               <div
-                class="flex-start absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[12.75px] md:px-[29.75px] pb-[17px] text-white"
+                class="flex-start absolute bottom-0 left-0 right-0 top-0 flex flex-col items-start justify-end px-[12.75px] pb-[17px] text-white md:px-[29.75px]"
               >
                 <span style="font-size: 13.6px; line-height: 13.6px"
                   >2024-05-24</span

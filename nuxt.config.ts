@@ -15,4 +15,7 @@ export default defineNuxtConfig({
       failOnError: false,
     },
   },
+  image: {
+    domains: ['wj.haoju.me'],
+  },
 });

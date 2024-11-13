@@ -501,7 +501,7 @@
                     class="flex h-[16px] w-[16px]"
                     style="line-height: 32px"
                     src="/images/list1_ico1.svg"
-                  >
+                  />
                 </div>
               </button>
             </li>
@@ -515,7 +515,7 @@
                     class="flex h-[16px] w-[16px]"
                     style="line-height: 32px"
                     src="/images/list1_ico2.svg"
-                  >
+                  />
                 </div>
               </NuxtLink>
             </li>
